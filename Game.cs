@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+//Adding a comment to show Step 7 from the github Lab
+
 namespace Games
 {
     public class Game
